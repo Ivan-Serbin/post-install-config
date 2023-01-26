@@ -44,9 +44,9 @@ Here I will tell you how to create the agent or worker account. First go to the 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XY9KrS8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In order setup an SLA you will need to go to admin panel > manage > SLA > add new SLA plan > choose the name, grace period, and scheduale. You employer will have a specific set of guidlines and SLA's to follow, so use those when creating new SLA's. To create new help topics asside from the ones currently implemented into osTicket you will need to go to admin panel > manage > help topics > add new help topic > create a topic that can be used such as "personal computer issues" and thats all there is to it.
 </p>
 <br />
