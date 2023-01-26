@@ -36,10 +36,10 @@ In order to configure the roles, departments and teams, you need to be logged in
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fJdvxtg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here I will tell you how to create the agent or worker account. First go to the Agents tab in the upper level next to emails > agents on the tier below > add new agent > create a name and email address as well as a username and password > choose which department and role you need this person to fill > give appropriate permissions > select the team if any that this person will be in. In order to add a users or cusomer, its very easy just got to agent panel > users > add user > create a name an email and thats it.
 </p>
 <br />
 
